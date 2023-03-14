@@ -1,0 +1,33 @@
+.Employment-heading {
+  color: white;
+  font-size: 22px;
+}
+
+.label {
+  color: white;
+  font-size: 16px;
+}
+
+.eachItem-employ {
+  /* list-style-type: none; */
+  margin: 0px;
+}
+
+.employ-list {
+  list-style-type: none;
+  margin: 0px;
+  text-align: start;
+  padding: 0px;
+}
+
+.salaryRange-heading {
+  color: white;
+  font-size: 22px;
+}
+
+.salaryRange-list {
+  list-style-type: none;
+  margin: 0px;
+  text-align: start;
+  padding: 0px;
+}
